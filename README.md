@@ -2,7 +2,7 @@
 
 *Italiano, see english version below*
 
-Lo scopo di questo repository è quello di fornire uno storage alternativo per le traduzioni di MagPi effettuate dalla community italiana RaspberryItaly.com.
+Lo scopo di questo repository è quello di fornire uno storage alternativo per le traduzioni di The MagPi (poi diventato Raspberry Pi Official Magazine) effettuate dalla community italiana RaspberryItaly.com.
 
 Non mi assumo alcun merito per i contenuti, in quanto frutto del team di traduttori, dei quali purtroppo non faccio parte. Mantengo il repository in qualità di sysadmin di RaspberryItaly.
 
